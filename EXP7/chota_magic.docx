@@ -1,0 +1,15 @@
+1. Fn = lambda x: x*10
+
+
+3. Fn = lambda x, y : any(np.asarray(x) == np.asarray(y))
+4. Lis = [I**2 for I in range(1, 30)]; print(Lis[:5], Lis[-5:])
+5. print(' '.join(map(str, list2)) in ' '.join(map(str, list1 * 2)))
+6. Li = sorted(set(List)); 
+7. Dit = {}
+for header, item in zip(
+	["BLACK", "Red", "Marron", "Yellow"],
+    ["%00000", "#FF000", "#8F000", "#FG000"]
+):
+    Dit[header]=item
+
+
